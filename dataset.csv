@@ -1,0 +1,101 @@
+question,category
+"When are the final exams?",Exams
+"When does the midterm exam start?",Exams
+"Where can I find the exam timetable?",Exams
+"What subjects have exams next week?",Exams
+"How can I register for an exam?",Exams
+"When is the mathematics exam?",Exams
+"Can I change my exam date?",Exams
+"Where will the exam take place?",Exams
+"How long is the final exam?",Exams
+"When will exam results be announced?",Exams
+"Do we have an exam tomorrow?",Exams
+"What is the exam schedule?",Exams
+"Can I retake a failed exam?",Exams
+"How many questions are in the exam?",Exams
+"Is the exam online or offline?",Exams
+"When does the registration for exams close?",Exams
+"Where can I see my exam results?",Exams
+"What should I bring to the exam?",Exams
+"Is there an exam during the holidays?",Exams
+"How can I prepare for the final exam?",Exams
+"Where can I check my grades?",Grades
+"When will my mathematics grade be available?",Grades
+"How can I calculate my average grade?",Grades
+"Why is my grade not visible?",Grades
+"Can I request a grade review?",Grades
+"What is my current GPA?",Grades
+"How many points did I get?",Grades
+"When will teachers upload grades?",Grades
+"Where can I see my semester results?",Grades
+"How are final grades calculated?",Grades
+"Can I improve my course grade?",Grades
+"Why did my grade change?",Grades
+"How many points do I need to pass?",Grades
+"Where can I download my transcript?",Grades
+"Can I see my previous semester grades?",Grades
+"What is the minimum passing grade?",Grades
+"How can I check my attendance points?",Grades
+"Is my assignment grade published?",Grades
+"Who should I contact about a wrong grade?",Grades
+"How can I calculate my GPA?",Grades
+"What time does my first class start?",Class Schedules
+"Where can I find my weekly timetable?",Class Schedules
+"Do we have lectures on Friday?",Class Schedules
+"When is my programming class?",Class Schedules
+"Has the classroom changed?",Class Schedules
+"Where is my next lecture?",Class Schedules
+"What is my schedule for Monday?",Class Schedules
+"Are there classes tomorrow?",Class Schedules
+"When does the lecture finish?",Class Schedules
+"Can I see the semester timetable?",Class Schedules
+"Which room is assigned to our class?",Class Schedules
+"Is there a break between lectures?",Class Schedules
+"When is our laboratory session?",Class Schedules
+"How many classes do I have today?",Class Schedules
+"Where can I check lecture times?",Class Schedules
+"Has the lecture been postponed?",Class Schedules
+"What is the schedule for next week?",Class Schedules
+"When is the next seminar?",Class Schedules
+"Are there any changes to today's timetable?",Class Schedules
+"How can I find my classroom?",Class Schedules
+"How can I contact the university administration?",University Services
+"Where is the student affairs office?",University Services
+"How can I get a student certificate?",University Services
+"Where can I find scholarship information?",University Services
+"How do I apply for student housing?",University Services
+"Where can I find university announcements?",University Services
+"How can I contact the library?",University Services
+"What are the library opening hours?",University Services
+"How can I apply for a scholarship?",University Services
+"Where can I get my student ID card?",University Services
+"How do I register for university services?",University Services
+"Where can I find information about tuition fees?",University Services
+"How can I contact my academic advisor?",University Services
+"Where is the university library?",University Services
+"How can I request an official document?",University Services
+"What student support services are available?",University Services
+"Where can I find internship announcements?",University Services
+"How can I join a university club?",University Services
+"Where can I find information about exchange programs?",University Services
+"How do I contact the admissions office?",University Services
+"I cannot log in to the student portal",Technical Support
+"My password is not working",Technical Support
+"The university website is not loading",Technical Support
+"How can I reset my account password?",Technical Support
+"My student portal keeps showing an error",Technical Support
+"I cannot access my online courses",Technical Support
+"Why is the university WiFi not connecting?",Technical Support
+"How can I update my account information?",Technical Support
+"The website is very slow",Technical Support
+"I forgot my student portal password",Technical Support
+"My account is locked",Technical Support
+"I cannot upload my assignment",Technical Support
+"The online learning platform is not working",Technical Support
+"How can I change my login email?",Technical Support
+"I cannot open the course materials",Technical Support
+"Why am I getting a login error?",Technical Support
+"My portal page is blank",Technical Support
+"How do I report a technical problem?",Technical Support
+"I cannot download a file from the portal",Technical Support
+"How can I contact technical support?",Technical Support
